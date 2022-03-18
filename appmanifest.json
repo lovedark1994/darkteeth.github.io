@@ -1,0 +1,10 @@
+{
+	"name": "回憶刷牙",
+	"short_name": "回憶刷牙",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
